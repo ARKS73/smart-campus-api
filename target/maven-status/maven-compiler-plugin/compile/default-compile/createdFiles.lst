@@ -1,0 +1,17 @@
+com\mycompany\smart\campus\api\exception\SensorUnavailableException.class
+com\mycompany\smart\campus\api\exception\LinkedResourceNotFoundException.class
+com\mycompany\smart\campus\api\resource\SensorReadingResource.class
+com\mycompany\smart\campus\api\model\SensorReading.class
+com\mycompany\smart\campus\api\resource\RoomResource.class
+com\mycompany\smart\campus\api\exception\LinkedResourceNotFoundExceptionMapper.class
+com\mycompany\smart\campus\api\exception\SensorUnavailableExceptionMapper.class
+com\mycompany\smart\campus\api\SmartCampusApplication.class
+com\mycompany\smart\campus\api\resource\DiscoveryResource.class
+com\mycompany\smart\campus\api\store\DataStore.class
+com\mycompany\smart\campus\api\exception\GlobalExceptionMapper.class
+com\mycompany\smart\campus\api\filter\LoggingFilter.class
+com\mycompany\smart\campus\api\model\Sensor.class
+com\mycompany\smart\campus\api\exception\RoomNotEmptyExceptionMapper.class
+com\mycompany\smart\campus\api\exception\RoomNotEmptyException.class
+com\mycompany\smart\campus\api\resource\SensorResource.class
+com\mycompany\smart\campus\api\model\Room.class
